@@ -2,6 +2,7 @@ const CACHE_NAME = "firstpwa-v1";
 var urlsToCache = [
     "/",
     "/nav.html",
+    "/manifest.json",
     "/index.html",
     "/pages/home.html",
     "/pages/about.html",
